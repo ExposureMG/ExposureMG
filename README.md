@@ -2,8 +2,6 @@
 
 ### gxBuild - [Source](https://github.com/ExposureMG/gxBuild)
 
-Will make public soon
-
 Start-to-finish xeBuild clone in rust, with 2026 updates (Glitch3, XDKBuild, Signature Patching, FFI, Developer API)
 
 
