@@ -4,11 +4,6 @@
 
 Start-to-finish xeBuild clone in rust, with 2026 updates (Glitch3, XDKBuild, Signature Patching, FFI, Developer API)
 
-
-### J-Runner with gxBuild - [Source](https://github.com/ExposureMG/J-Runner-with-gxBuild), [Support Files](https://github.com/ExposureMG/J-Runner-with-gxBuild-Files)
-
-Big J-Runner fork offloading everything possible onto gxBuild, with a bag of UI updates, a gxRemapper implementation, and PICF2SPI.
-
 ### Other gx Projects
 
 * [ExCrypt-gx](https://github.com/ExposureMG/ExCrypt-gx) - ExCrypt soft fork with multi-platform/compiler changes, Depended on by gxBuild
