@@ -1,12 +1,19 @@
 # ExposureMG
 
-### gxBuild - [Source](https://github.com/ExposureMG/gxBuild)
 
-Start-to-finish xeBuild clone in rust with modernizations (Glitch3, Signature Patching, Developer API)
+### gxBuild - [Source](https://github.com/GxOSS/gxBuildPP)
 
-### Genexis - [Source](https://github.com/ExposureMG/Genexis)
+Xbox 360 NAND and image builder 
 
-Cross-platform GUI NAND Builder and Flasher using QtQuick, Kirigami, gxBuild, FTDI2SPI and xsvftool
+
+## NandProMax
+[Source](https://github.com/GxOSS/NandProMax)
+
+
+### Genexis - [Source](https://github.com/GxOSS/Genexis)
+
+Cross-platform GUI NAND Builder and Flasher using QtQuick, Kirigami, gxBuild, and NandProMax
+
 
 ### Contact
 
