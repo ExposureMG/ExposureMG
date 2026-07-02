@@ -3,16 +3,16 @@
 
 ### gxBuild - [Source](https://github.com/GxOSS/gxBuildPP)
 
-Xbox 360 NAND and image builder 
+WIP C++23 Xbox 360 NAND and image builder 
 
 
-## NandProMax
-[Source](https://github.com/GxOSS/NandProMax)
+### NandProMax - [Source](https://github.com/GxOSS/NandProMax)
 
+Rust Cross-platform Xbox 360 NAND Flasher
 
 ### Genexis - [Source](https://github.com/GxOSS/Genexis)
 
-Cross-platform GUI NAND Builder and Flasher using QtQuick, Kirigami, gxBuild, and NandProMax
+WIP Rust/C++/QML Cross-platform GUI NAND Builder and Flasher using Kirigami, gxBuild3, and NandProMax
 
 
 ### Contact
