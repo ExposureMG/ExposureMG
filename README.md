@@ -1,5 +1,8 @@
 # ExposureMG
 
+### Wenlock
+
+Docker + C++20 Discord Bot and Companion Server. Features PhoneDB scraping and Captcha Verification
 
 ### gxBuild - [Source](https://github.com/GxOSS/gxBuildPP)
 
