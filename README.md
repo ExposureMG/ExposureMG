@@ -8,21 +8,21 @@
 
 C++23 NAND image builder
 
-**NandProMax** - [Source](https://github.com/ExposureMG/NandProMax)
-
-Rust Hardware Flashing Utility
-
-**tools** - [Source](https://github.com/ExposureMG/tools)
-
-Research and python tools for Xbox 360 NANDs
-
 **UpdClient** - [Source](https://github.com/ExposureMG/UpdClient)
 
-C++20 Wireless Flash Utility
+C++20 wireless debug library; XBDM, XDRPC, JRPC2, JRPC and UpdServ
+
+**NandProMax** - [Source](https://github.com/ExposureMG/NandProMax)
+
+Rust Hardware Flashing Utility and Library
 
 **Genexis** - [Source](https://github.com/ExposureMG/Genexis)
 
 WIP C++23/Qt6 Kirigami Cross-platform GUI NAND Builder and Flasher
+
+**Research** - [Source](https://github.com/ExposureMG/360-research)
+
+General Xbox 360 Research on NANDs, FlashFS, xeBuild, JRPC, JRPC2, XDRPC, XRPC, and XBDM.
 
 ---
 
