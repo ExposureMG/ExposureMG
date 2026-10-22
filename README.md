@@ -39,4 +39,4 @@ DPP Discord bot with PhoneDB and GSMArena Scraping, Captcha, and General Utiliti
 ### Contact
 
 * Email: [exposuremg@protonmail.com](mailto://exposuremg@protonmail.com)
-* Discord: xenon_kitchen
+* Discord: xbox_kitchen
