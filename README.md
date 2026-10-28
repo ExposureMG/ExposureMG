@@ -22,7 +22,7 @@ WIP C++23/Qt6 Kirigami Cross-platform GUI NAND Builder and Flasher
 
 **Research** - [Source](https://github.com/ExposureMG/360-research)
 
-General Xbox 360 Research on NANDs, FlashFS, xeBuild, JRPC, JRPC2, XDRPC, XRPC, and XBDM.
+General Research on the ISA, SMC, Hypervisor, and protocols (JRPC, JRPC2, XDRPC, XRPC, and XBDM).
 
 ---
 
